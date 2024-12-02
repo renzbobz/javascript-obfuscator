@@ -1,7 +1,7 @@
 /* eslint-disable */
 
 import * as acorn from 'acorn';
-import * as escodegen from '@javascript-obfuscator/escodegen';
+import * as escodegen from '@rzbz/escodegen';
 import * as eslintScope from 'eslint-scope';
 
 declare module 'estree' {

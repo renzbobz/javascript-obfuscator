@@ -1,6 +1,6 @@
-import * as escodegen from '@javascript-obfuscator/escodegen';
 import * as estraverse from '@javascript-obfuscator/estraverse';
 import * as ESTree from 'estree';
+import * as escodegen from '@rzbz/escodegen';
 
 import { ecmaVersion } from '../constants/EcmaVersion';
 

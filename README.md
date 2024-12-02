@@ -1,3 +1,11 @@
+## Added import attributes/assertions support (with & assert keyword)
+
+```
+npm i @rzbz/javascript-obfuscator
+```
+
+---
+
 <!--
   Title: JavaScript Obfuscator
   Description: A powerful obfuscator for JavaScript and Node.js.

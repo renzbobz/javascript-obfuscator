@@ -1,6 +1,6 @@
 /* eslint-disable */
 
-declare module '@javascript-obfuscator/escodegen' {
+declare module '@rzbz/escodegen' {
     import * as ESTree from 'estree';
     import * as escodegen from 'escodegen';
     export * from 'escodegen';
