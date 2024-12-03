@@ -12,6 +12,6 @@ describe('ObfuscatedCodeFileUtils', () => {
 
   it('should handle input path ending (or not ending) with forward slash', () => {
     const result = util.getOutputCodePath('src/cli/app.js');
-    expect(result).equals('src/cli/dist/src/cli/app.js');
+    expect(result).equals('src\\cli\\dist\\src\\cli\\app.js');
   });
 });
